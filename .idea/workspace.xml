@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="973ff972-b0ce-471c-ba6f-bf03683a9624" name="Changes" comment="Лабораторная работа 1. Вывод заголовка страницы и футора из отдельных файлов.">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-    </list>
+    <list default="true" id="973ff972-b0ce-471c-ba6f-bf03683a9624" name="Changes" comment="Лабораторная работа 2. Создание сервлета." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Tomcat Server.Tomcat .executor": "Run",
-    "git-widget-placeholder": "dev2",
+    "git-widget-placeholder": "dev3",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Razrabotka/kursovaya/labs_razrabotka",
@@ -174,7 +172,7 @@
       <workItem from="1743384917910" duration="756000" />
       <workItem from="1743386027295" duration="1981000" />
       <workItem from="1743388484387" duration="213000" />
-      <workItem from="1743388713405" duration="669000" />
+      <workItem from="1743388713405" duration="1493000" />
     </task>
     <task id="LOCAL-00001" summary="Лабораторная работа 1. Вывод заголовка страницы и футора из отдельных файлов.">
       <option name="closed" value="true" />
@@ -184,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743388103300</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Лабораторная работа 2. Создание сервлета.">
+      <option name="closed" value="true" />
+      <created>1743389825345</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743389825345</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +209,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Лабораторная работа 1. Вывод заголовка страницы и футора из отдельных файлов." />
-    <option name="LAST_COMMIT_MESSAGE" value="Лабораторная работа 1. Вывод заголовка страницы и футора из отдельных файлов." />
+    <MESSAGE value="Лабораторная работа 2. Создание сервлета." />
+    <option name="LAST_COMMIT_MESSAGE" value="Лабораторная работа 2. Создание сервлета." />
   </component>
 </project>
