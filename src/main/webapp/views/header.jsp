@@ -10,7 +10,7 @@
 <nav class="navbar navbar-light bg-primary">
  <div class="container-fluid">
  <a class="navbar-brand" href="#">
- <img src="images/what.jpg" alt="" width="80" height="80" >
+ <img src="${pageContext.request.contextPath}/images/what.jpg" alt="" width="100" height="100" >
  </a>
  <h2>Управление представителями</h2>
  </div>

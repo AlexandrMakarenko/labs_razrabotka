@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="973ff972-b0ce-471c-ba6f-bf03683a9624" name="Changes" comment="Лабораторная работа 4. initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Region.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Territory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Territory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/Employee.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/Employee.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/EmployeeTerritory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/EmployeeTerritory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/Region.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/Region.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/Territory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/Territory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/header.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

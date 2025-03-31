@@ -10,6 +10,27 @@ public class Territory {
 		this.RegionId = RegionId;
 		this.Description = Description;
 	}
+
+	public Long getId() {
+		return id;
+	}
+	public void setId(Long id) {
+		this.id = id;
+	}
+
+	public Long getRegionId() {
+		return RegionId;
+	}
+	public void setRegionId(Long RegionId) {
+		this.RegionId = RegionId;
+	}
+
+	public String getDescription() {
+		return Description;
+	}
+	public void setDescription(String Description) {
+		this.Description = Description;
+	}
 	
 	@Override
 	public String toString() {

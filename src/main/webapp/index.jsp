@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<!-- Bootstrap CSS -->
-<link rel="stylesheet" href="css/bootstrap.min.css">
-<!-- jQuery -->
-<script defer src="js/jquery-3.6.4.js"></script>
-<!-- Bootstrap JS + Popper JS -->
-<script defer src="js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="${pageContext.request.contextPath}/css/bootstrap.min.css">
+<script defer src="${pageContext.request.contextPath}/js/jquery-3.7.1.min.js"></script>
+<script defer src="${pageContext.request.contextPath}/js/bootstrap.bundle.min.js"></script>
 <title>Информационная подсистема формирования данных о региональных представителях фирмы</title>
 </head>
 <body>
