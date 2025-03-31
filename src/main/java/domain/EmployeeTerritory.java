@@ -3,7 +3,7 @@ package domain;
 public class EmployeeTerritory {
 	private Long EmployeeId;
 	private Long TerritoryId;
-
+	
 	public EmployeeTerritory(Long EmployeeId, Long TerritoryId) {
 		this.EmployeeId = EmployeeId;
 		this.TerritoryId = TerritoryId;
@@ -14,7 +14,7 @@ public class EmployeeTerritory {
 	}
 	
 	public Long getEmployeeId() {
-		return EmployeeId
+		return EmployeeId;
 	}
 	
 	public void setTerritoryId(Long TerritoryId) {

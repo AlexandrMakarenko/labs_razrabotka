@@ -17,7 +17,23 @@
 		<jsp:include page="/views/header.jsp"/>
 	</header>
 	<main>
-		Основное содержимое страницы
+		<div class="container">
+			<br><br><br>
+				<div class="list-group text-center py-3 px-3">
+					<h2>Функции системы</h2>
+					<ul class="list-group list-group-flush">
+						<li class="list-group-item list-group-itemprimary">
+							<a href="/labs_razrabotka/views/Employee.jsp">Представители</a>
+						<li class="list-group-item list-group-iteminfo">
+							<a href="/labs_razrabotka/views/EmployeeTerritory.jsp">Представители \ Территории</a>
+						<li class="list-group-item list-group-iteminfo">
+							<a href="/labs_razrabotka/views/Territory.jsp">Территории</a>
+						<li class="list-group-item list-group-iteminfo">
+							<a href="/labs_razrabotka/views/Region.jsp">Регионы</a>
+					</ul>
+				</div>
+			<br><br>
+		</div>
 	</main>
 	<footer>
 		<jsp:include page="/views/footer.jsp"/>

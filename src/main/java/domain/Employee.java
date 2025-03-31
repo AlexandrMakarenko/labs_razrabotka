@@ -1,5 +1,7 @@
 package domain;
 
+import java.util.Date;
+
 public class Employee {
 	private Long id;
 	private String LastName;
